@@ -1,5 +1,7 @@
 # Visual Prototyping Board
 
+[![CI](https://github.com/ghostland-dev/scrum-figma-clone/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/scrum-figma-clone/actions/workflows/ci.yml)
+
 Interactive prototyping tool with a component bar and a customisable whiteboard.
 
 ## Features
